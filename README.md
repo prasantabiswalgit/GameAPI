@@ -1,7 +1,7 @@
 Setup Instructions :
 To run this project locally, follow these steps:
 1. Clone the repository : 
-git clone https://github.com/prasantabiswalgit/GameAPI.git
+git clone http://github.com/prasantabiswalgit/GameAPI.git
 3. Navigate to the project directory: 
 cd GameAPI
 cd GameApiTest
