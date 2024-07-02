@@ -4,6 +4,7 @@ To run this project locally, follow these steps:
 git clone https://github.com/prasantabiswalgit/GameAPI.git
 3. Navigate to the project directory: 
 cd GameAPI
+cd GameApiTest
 5. Restore necessary packages: 
 dotnet restore
 7. Set up the database: 
