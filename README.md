@@ -1,25 +1,17 @@
 Setup Instructions :
 To run this project locally, follow these steps:
-
-1. Clone the repository
-2. 
+1. Clone the repository : 
 git clone https://github.com/prasantabiswalgit/GameAPI.git
-3. Navigate to the project directory
-4. 
+3. Navigate to the project directory: 
 cd GameAPI
-5. Restore necessary packages
-6. 
+5. Restore necessary packages: 
 dotnet restore
-7. Set up the database
-8. 
+7. Set up the database: 
 Ensure your database connection string is correctly configured in appsettings.json. Run Entity Framework Core migrations to create the database schema and seed initial data (if applicable):
-
 dotnet ef database update
-10. Run the API
-
+10. Run the API :
 dotnet run
-11. Access the API
-
+11. Access the API :
 Navigate to http://localhost:5001/swagger/index.html to view and interact with the API using Swagger UI.
 
 API Endpoints
