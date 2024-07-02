@@ -13,7 +13,7 @@ dotnet ef database update
 10. Run the API :
 dotnet run
 11. Access the API :
-Navigate to http://localhost:5001/swagger/index.html to view and interact with the API using Swagger UI.
+Navigate to https://localhost:5001/swagger/index.html to view and interact with the API using Swagger UI.
 
 API Endpoints
 Games
