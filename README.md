@@ -23,7 +23,7 @@ bash
 Copy code
 dotnet run
 6.	Access the API:
-Navigate to https://localhost:5001/swagger/index.html to view and interact with the API using Swagger UI.
+Navigate to http://localhost:5001/swagger/index.html to view and interact with the API using Swagger UI.
 API Endpoints
 Games
 •	GET /api/games?page={pageNumber}&pageSize={pageSize} - Retrieves a list of games with pagination.
